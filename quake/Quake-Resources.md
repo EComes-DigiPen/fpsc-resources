@@ -4,9 +4,9 @@
 
 ### Shareware Game Data:
 * [Quake](quake1_shareware_pak0.7z)  
-    This article on one of the many sites bearing the name "Quake Wiki" covers how to get the shareware version of Quake. The version linked on this site requires an FTP client (WinSCP is recommended, FileZilla has adware) to download it directly from id Software's own FTP archives.
+    The Quake 1 shareware game data file. Requires [7-Zip](http://7-zip.org) to extract the .pak file from the compressed archive. Create a folder named "id1" next to your source port's executable, and place the .pak file in there.
 * [nQuake](http://nquake.com)  
-    nQuake is an easy setup program for QuakeWorld. The nQuake installer will download the Quake shareware game data as well as the ezQuake source port.
+    nQuake is an easy setup program for QuakeWorld. The nQuake installer will automatically download the Quake shareware game data along with the ezQuake source port.
 * [Quake 2 Starter](http://q2s.tastyspleen.net/)  
     "Quake II Starter is a free, standalone Quake II installer for Windows that uses the freely available 3.14 demo, 3.20 point release and the multiplayer-focused Q2PRO client to create a functional setup that's capable of playing online."
 * [Quake 3 Arena Demo](Q3ADemo.7z)  
@@ -51,7 +51,7 @@
 * [Quake3e](http://github.com/ec-/Quake3e)  
     A fork of an older version of ioQuake3 that is "aimed to be fast, secure, and compatible with all existing Q3A mods". Has Vulkan support.
 * [Q3lite](http://github.com/cdev-tux/q3lite)  
-    A fork of ioQuake3 optimized for embedded Linux systems, such as the Raspberry Pi.
+    A fork of ioQuake3 optimized for the Raspberry Pi and other embedded Linux systems.
 
 ### Other:
 * [FTEQW](http://fte.triptohell.info/)  
@@ -64,7 +64,7 @@
 ## Tools:
 
 ### Mapping Tools:
-* J.A.C.K. - ([Old Free Version](http://jack.hlfx.ru) / [Steam Version](http://steampowered.com/app/496450))  
+* J.A.C.K. - [Free Version](http://jack.hlfx.ru) / [Steam Version ($15)](http://steampowered.com/app/496450)  
     A clone of Valve's Hammer Editor that supports Quake, Quake II, Quake III, and Half-Life. Highly recommended for those who are accustomed to GoldSrc and Source Engine map creation are looking to branch out.
 * [TrenchBroom](http://trenchbroom.github.io)  
     A map editor for Quake and Quake 2.
@@ -92,4 +92,4 @@
     A total conversion for Quake III Arena which describes itself as "a Hollywood tactical shooter" whose motto is "fun over realism".
 * [Xonotic](http://xonotic.org)  
 * [QueToo](http://quetoo.org)  
-* AQtion / Action Quake 2 - ([Steam](http://steampowered.com/app/1978800) / [Website](http://q2online.net))  
+* AQtion / Action Quake 2 - [Steam](http://steampowered.com/app/1978800) / [Website](http://q2online.net)  
