@@ -4,7 +4,7 @@
 
 ### Shareware Game Data:
 * [Quake](quake1_shareware_pak0.7z)  
-    The Quake 1 shareware game data file. Requires [7-Zip](http://7-zip.org) to extract the .pak file from the compressed archive. Create a folder named "id1" next to your source port's executable, and place the .pak file in there.
+    The Quake 1 shareware game data file. Requires [7-Zip](http://7-zip.org) to extract the .pak file from the compressed archive. Create a folder named "id1" next to your source port's executable, and place the .pak file in there. Highly compressed from 18.7 MB down to 5.8 MB for a slightly faster and considerably smaller download.
 * [nQuake](http://nquake.com)  
     nQuake is an easy setup program for QuakeWorld. The nQuake installer will automatically download the Quake shareware game data along with the ezQuake source port.
 * [Quake 2 Starter](http://q2s.tastyspleen.net/)  
