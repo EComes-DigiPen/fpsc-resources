@@ -3,13 +3,13 @@
 ## Game Content:
 
 ### Shareware Game Data:
-* [Quake](http://quakewiki.org/wiki/Getting_Started#Download_the_shareware_edition_of_Quake)  
+* [Quake](quake1_shareware_pak0.7z)  
     This article on one of the many sites bearing the name "Quake Wiki" covers how to get the shareware version of Quake. The version linked on this site requires an FTP client (WinSCP is recommended, FileZilla has adware) to download it directly from id Software's own FTP archives.
 * [nQuake](http://nquake.com)  
     nQuake is an easy setup program for QuakeWorld. The nQuake installer will download the Quake shareware game data as well as the ezQuake source port.
-* [Quake 2 Starter](http://quakewiki.org/wiki/Getting_Started#Download_the_shareware_edition_of_Quake)  
+* [Quake 2 Starter](http://q2s.tastyspleen.net/)  
     "Quake II Starter is a free, standalone Quake II installer for Windows that uses the freely available 3.14 demo, 3.20 point release and the multiplayer-focused Q2PRO client to create a functional setup that's capable of playing online."
-* [Quake 3 Arena Demo](http://archive.org/details/QuakeIiiArenaDemo)  
+* [Quake 3 Arena Demo](Q3ADemo.7z)  
     The installer for the Quake III Arena Demo.
 
 ### Open-Source Game Data:
@@ -29,7 +29,7 @@
 
 ## Source Ports:
 
-### Quake 1:
+### Quake:
 * [QuakeSpasm Spiked](http://fte.triptohell.info/moodles/qss)  
     A fork of QuakeSpasm with improved networking code among many other features.
 * [vkQuake](http://github.com/Novum/vkQuake)  
@@ -46,10 +46,10 @@
     An alternative Quake II port with Vulkan rendering.
 
 ### Quake III:
-* [Quake3e](http://github.com/ec-/Quake3e)  
-    A fork of ioQuake3 that is "aimed to be fast, secure, and compatible with all existing Q3A mods". Has Vulkan support.
 * [ioQuake3](http://ioquake3.org)  
     An updated version of the original Quake III engine.
+* [Quake3e](http://github.com/ec-/Quake3e)  
+    A fork of an older version of ioQuake3 that is "aimed to be fast, secure, and compatible with all existing Q3A mods". Has Vulkan support.
 * [Q3lite](http://github.com/cdev-tux/q3lite)  
     A fork of ioQuake3 optimized for embedded Linux systems, such as the Raspberry Pi.
 
